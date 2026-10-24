@@ -1,5 +1,7 @@
 # bug-hunting-kit 🐛
 
+[![CI](https://github.com/SuellenQwQ/bug-hunting-kit/actions/workflows/ci.yml/badge.svg)](https://github.com/SuellenQwQ/bug-hunting-kit/actions/workflows/ci.yml)
+
 The toolkit behind my daily habit: **read one open-source project, file one verified issue.**
 
 ## What's inside
